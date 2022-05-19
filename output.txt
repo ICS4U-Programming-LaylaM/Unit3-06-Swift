@@ -1,0 +1,44 @@
+The current speed of vehicle 23 is: 0 km/h.
+
+The max speed of vehicle 23 is: 150 km/h.
+
+Vehicle 23's info
+License plate: AU6SN8
+Colour: purple
+Number of doors: 2
+Speed: 5
+Max speed: 150
+
+The current speed of vehicle null is: 0 km/h.
+
+The max speed of vehicle null is: 10 km/h.
+
+Vehicle null's info
+License plate: ABC123
+Colour: 
+Number of doors: 0
+Speed: 5
+Max speed: 10
+
+The current speed of vehicle 23 is: 0 km/h.
+
+The max speed of vehicle 23 is: 150 km/h.
+
+Vehicle 23's info
+License plate: AU6SN8
+Colour: purple
+Number of doors: 2
+Speed: 5
+Max speed: 150
+
+The current speed of vehicle null is: 0 km/h.
+
+The max speed of vehicle null is: 10 km/h.
+
+Vehicle null's info
+License plate: ABC123
+Colour: 
+Number of doors: 0
+Speed: 5
+Max speed: 10
+
